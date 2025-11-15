@@ -12,3 +12,7 @@
 5. использовать ключ
 
 После получения ключа. устанавливваете нужные бибилиотеки. Если используете код на библиотеки от ии, то устанавливаете бибилиотеку mistralai, прописываем в терминал команду pip install mistralai
+
+
+Полезный ссылки на статьи:
+<a href="[https://example.com](https://python.ivan-shamaev.ru/python-api-tutorial-get-post-auth-http-requests-examples/?ysclid=mhzymdh9xb454794551)" a>
